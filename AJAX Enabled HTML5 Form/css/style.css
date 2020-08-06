@@ -1,0 +1,46 @@
+/* Kendra Brauer
+ICT-4510-1 Adv. Website Design & Mgmt
+Week 6 Assignment: Build Responsive Web Pages and an Ajax Enabled HTML5 Form
+css/style.css
+7/26/20 */
+
+/*  Extra small devices (portrait phones, less than 576px)
+No media query for `xs` since this is the default in Bootstrap */
+body {
+  background-color: #D9BBA0;
+  color: #422A59;
+}
+h2 {
+  font-size: 18px;
+}
+.button1 {
+  background-color: #A64456;
+  border-color: #A64456;
+}
+.button1:hover {
+  background: #D96D55;
+  border-color: #D96D55;
+}
+#message {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+
+ }
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+  #message {
+    font-size: 48px;
+    font-weight: bold;
+  }
+ }
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {  }
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {  }
