@@ -1,0 +1,23 @@
+/* Kendra Brauer
+ICT-4510-1 Adv. Website Design & Mgmt
+Week 7 Assignment: Practice building a map with a third-party library and API
+styles.css
+8/3/20 */
+
+body {
+  margin-left: 15px;
+  background-color: #F5F3EE;
+
+}
+
+h1 {
+  color: #98002E;
+  font-weight: bold;
+  font-size: 44px;
+  text-shadow: 1px 1px 2px #91722A, 0 0 25px #91722A, 0 0 5px #91722A;
+}
+
+#mapid {
+  height: 500px;
+  width: 500px;
+ }
