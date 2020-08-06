@@ -1,0 +1,27 @@
+/* Kendra Brauer
+ICT-4510-1 Adv. Website Design & Mgmt
+Week 4 Assignment: Manipulate an HTML form using the DOM
+css/style.css
+7/12/20 */
+
+body {
+  background-color: #34BFB1;
+  color: #0A31A6;
+  font-family: 'Poppins', sans-serif;
+  margin-left: 20px;
+}
+div {
+  padding: 5px;
+}
+button {
+  background-color: #F2D43D;
+  border-color: #88C9F2;
+  border-width: 2px;
+  color: #0A31A6;
+  padding: 8px;
+  font-size: 16px;
+}
+p {
+  font-size: 20px;
+  color: #372673;
+}
